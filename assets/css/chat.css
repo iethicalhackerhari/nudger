@@ -1,0 +1,16 @@
+.scroll-div::-webkit-scrollbar {
+    display: none;
+  }
+
+  .bubble{
+      padding: 10px !important;
+      background-color: aliceblue !important;
+      border-radius: 0px 50px !important;
+  }
+  .mesg{
+      font-weight: bold;
+      font-size: larger;
+  }
+  .ip , .tstamp{
+      padding: 5px;
+  }
